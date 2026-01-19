@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:61087/en/sitemap.xml</loc>
+    <loc>https://bluecharmv2.netlify.app/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:61087/de/sitemap.xml</loc>
+    <loc>https://bluecharmv2.netlify.app/de/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:61087/pl/sitemap.xml</loc>
+    <loc>https://bluecharmv2.netlify.app/pl/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:61087/ru/sitemap.xml</loc>
+    <loc>https://bluecharmv2.netlify.app/ru/sitemap.xml</loc>
     
   </sitemap>
   

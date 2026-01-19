@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:61087/ru/</loc>
+    <loc>https://bluecharmv2.netlify.app/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:61087/en/"
+                href="https://bluecharmv2.netlify.app/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:61087/de/"
+                href="https://bluecharmv2.netlify.app/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:61087/pl/"
+                href="https://bluecharmv2.netlify.app/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:61087/ru/"
+                href="https://bluecharmv2.netlify.app/ru/"
                 />
   </url><url>
-    <loc>http://localhost:61087/ru/categories/</loc>
+    <loc>https://bluecharmv2.netlify.app/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:61087/en/categories/"
+                href="https://bluecharmv2.netlify.app/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:61087/de/categories/"
+                href="https://bluecharmv2.netlify.app/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:61087/pl/categories/"
+                href="https://bluecharmv2.netlify.app/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:61087/ru/categories/"
+                href="https://bluecharmv2.netlify.app/ru/categories/"
                 />
   </url><url>
-    <loc>http://localhost:61087/ru/tags/</loc>
+    <loc>https://bluecharmv2.netlify.app/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:61087/en/tags/"
+                href="https://bluecharmv2.netlify.app/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:61087/de/tags/"
+                href="https://bluecharmv2.netlify.app/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://localhost:61087/pl/tags/"
+                href="https://bluecharmv2.netlify.app/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:61087/ru/tags/"
+                href="https://bluecharmv2.netlify.app/ru/tags/"
                 />
   </url>
 </urlset>
